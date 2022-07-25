@@ -1,6 +1,7 @@
 themes=(
 	casper
 	lyra
+	archi-ke-theme
 )
 
 mkdir -p content/themes/
