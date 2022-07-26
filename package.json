@@ -13,7 +13,7 @@
     "ghost": "4.47.4",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
-    "archi-ke-theme": "github:geoffOkumu/archi-ke#v-1",
+    "archi-ke-theme": "github:geoffOkumu/archi-ke#v-1.1",
     "mysql2": "2.3.3"
   },
   "scripts": {
