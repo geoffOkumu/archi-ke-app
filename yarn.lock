@@ -2138,9 +2138,9 @@ aproba@^1.0.3:
   resolved "https://registry.yarnpkg.com/aproba/-/aproba-2.0.0.tgz#52520b8ae5b569215b354efc0caa3fe1e45a8adc"
   integrity sha512-lYe4Gx7QT+MKGbDsA+Z+he/Wtef0BiwDOlK/XkBrdfsh9J/jPPXbX0tE9x9cl27Tmu5gg3QUbUrQYa/y+KOHPQ==
 
-"archi-ke-theme@github:geoffOkumu/archi-ke#v-1.1":
+"archi-ke-theme@github:geoffOkumu/archi-ke-theme#main":
   version "1.0.0"
-  resolved "https://codeload.github.com/geoffOkumu/archi-ke/tar.gz/db66bee1c52ed11531ff70c5d04d1076c560877b"
+  resolved "https://codeload.github.com/geoffOkumu/archi-ke-theme/tar.gz/5af057ccecee2ddd8047abcb0ca001ffc1140555"
   dependencies:
     tailwindcss "^3.1.6"
 
