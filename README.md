@@ -6,7 +6,7 @@ This example deploys self-hosted version of [Ghost](https://ghost.org/). Interna
 
 ## ✨ Features
 
-- Ghost
+- Ghost v5
 - MySQL
 
 ## 💁‍♀️ How to use
