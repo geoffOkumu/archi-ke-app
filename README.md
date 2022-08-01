@@ -4,10 +4,6 @@ This example deploys self-hosted version of [Ghost](https://ghost.org/). Interna
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ghost)
 
-## ✨ Features
-
-- Ghost v5
-- MySQL
 
 ## 💁‍♀️ How to use
 
