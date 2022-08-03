@@ -22,7 +22,7 @@ collections:
     permalink: /portfolio/{slug}/
     template: projects
     filter: tag:project
-    data: tag.project
   /blog/:
     permalink: /blog/{slug}/
     template: blog
+  
