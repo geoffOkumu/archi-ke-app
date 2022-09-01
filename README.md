@@ -2,9 +2,6 @@
 
 This example deploys self-hosted version of [Ghost](https://ghost.org/). Internally it uses a MySQL database to store the data.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ghost)
-
-
 ## 💁‍♀️ How to use
 
 - Click the Railway button 👆
